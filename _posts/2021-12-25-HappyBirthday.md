@@ -4,7 +4,7 @@ title: Happy Birthday!
 published: true
 ---
 
-**Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).**
+**Happy Birthday Linda/Mum, this will be your blog for gardening and whatever else you wish to record and write about.**
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
